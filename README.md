@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Visual Research Paper](https://github.com/harshitaggarwal01/Visual-Research-Paper)
+- 🔭 I’m currently working on [Visual Research Paper](https://github.com/AlKun25/IntraMIC)
 - 🌱 I’m currently learning ReactJS
 - 👯 I’m looking to collaborate on ML, DL projects or cool apps
 - 🤔 I’m looking for help with ReactJS
