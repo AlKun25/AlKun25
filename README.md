@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 - 💬 Ask me about ML, DL and Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kunalmundada/)
 - 😄 Pronouns: He/Him
-- ⚡ Fun fact: I don't like seeing code in the morning XD
+- ⚡ Fun fact: I am better at debugging than coding XD
 
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=AlKun25&count_private=true&show_icons=true&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlKun25&langs_count=3)](https://github.com/anuraghazra/github-readme-stats)
+[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=AlKun25&show_icons=false&theme=radical&hide=)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlKun25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
