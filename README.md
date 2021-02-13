@@ -5,7 +5,7 @@
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on [Residual Attention Network](https://github.com/AlKun25/ResAttNet)
+- 🔭 I’m currently working on Telegram bots
 - 🌱 I’m currently learning basics of NLP
 - 👯 I’m looking to collaborate on ML, DL projects or cool apps
 - 🤔 I’m looking for help with Chatbots
