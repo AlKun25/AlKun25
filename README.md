@@ -14,5 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am better at debugging than coding XD
 
-[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=AlKun25&show_icons=false&theme=radical&hide=)](https://github.com/anuraghazra/github-readme-stats)
+<!--[![Kunal's github stats](https://github-readme-stats.vercel.app/api?username=AlKun25&show_icons=false&theme=radical&hide=)](https://github.com/anuraghazra/github-readme-stats)-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=AlKun25&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
