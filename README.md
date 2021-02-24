@@ -2,8 +2,7 @@
 
 <!--
 **AlKun25/AlKun25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
-
-Here are some ideas to get you started:
+![](https://komarev.com/ghpvc/?username=AlKun25&style=plastic&color=yellowgreen)
 
 - 🔭 I’m currently working on Telegram bots
 - 🌱 I’m currently learning basics of NLP
