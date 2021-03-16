@@ -12,6 +12,3 @@
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kunalmundada/)
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I am better at debugging than coding XD
-
-[![Kunal's github stats](https://github-readme-stats-pearl-six.vercel.app/api?username=AlKun25&show_icons=false&theme=radical&hide=issues&exclude_repo=github-readme-stats,OpenSource,study1,AlKun25)](https://github.com/AlKun25/github-readme-stats)
-[![Top Langs](https://github-readme-stats-pearl-six.vercel.app/api/top-langs/?username=AlKun25&layout=compact&hide=javascript,html,css&exclude_repo=github-readme-stats,OpenSource,study1,AlKun25)](https://github.com/AlKun25/github-readme-stats)
