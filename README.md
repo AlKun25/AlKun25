@@ -14,6 +14,10 @@
 - 😄 Pronouns: He/Him
 - ⚡ Fun fact: I often like to ideate stuff to understand major issues in certain ideas and common technical roadblocks.
 
+## ✉️ Connect with me
+
+
+
 ## 🧰 My toolbox
 
 
