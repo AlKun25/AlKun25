@@ -1,7 +1,9 @@
-# Hi there 👋
+# Hi there, I'm Kunal 👋
 
 <!--
 **AlKun25/AlKun25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.-->
+
+## I'm a Student, Developer and Researcher!
 
 - 🔭 I’m currently working on Reinforcement Learning, Large Language models and Robotics projects
 - 🌱 I’m currently learning basics of Reinforcement Learning
