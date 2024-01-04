@@ -27,11 +27,11 @@
 
 ## Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#2](https://github.com/AlKun25/AlKun25/issues/2) in [AlKun25/AlKun25](https://github.com/AlKun25/AlKun25)
-2. ❗ Opened issue [#1](https://github.com/AlKun25/AlKun25/issues/1) in [AlKun25/AlKun25](https://github.com/AlKun25/AlKun25)
-3. 🗣 Commented on [#1](https://github.com/jkyunnng/HappyQuokka_system_for_EEG_Challenge/issues/1#issuecomment-1855526469) in [jkyunnng/HappyQuokka_system_for_EEG_Challenge](https://github.com/jkyunnng/HappyQuokka_system_for_EEG_Challenge)
-4. 🎉 Merged PR [#11](https://github.com/AlKun25/ChatViz/pull/11) in [AlKun25/ChatViz](https://github.com/AlKun25/ChatViz)
-5. ❗ Opened issue [#1](https://github.com/jkyunnng/HappyQuokka_system_for_EEG_Challenge/issues/1) in [jkyunnng/HappyQuokka_system_for_EEG_Challenge](https://github.com/jkyunnng/HappyQuokka_system_for_EEG_Challenge)
+1. ❗ Opened issue [#3](https://github.com/AlKun25/AlKun25/issues/3) in [AlKun25/AlKun25](https://github.com/AlKun25/AlKun25)
+2. ❗ Opened issue [#2](https://github.com/AlKun25/AlKun25/issues/2) in [AlKun25/AlKun25](https://github.com/AlKun25/AlKun25)
+3. ❗ Opened issue [#1](https://github.com/AlKun25/AlKun25/issues/1) in [AlKun25/AlKun25](https://github.com/AlKun25/AlKun25)
+4. 🗣 Commented on [#1](https://github.com/jkyunnng/HappyQuokka_system_for_EEG_Challenge/issues/1#issuecomment-1855526469) in [jkyunnng/HappyQuokka_system_for_EEG_Challenge](https://github.com/jkyunnng/HappyQuokka_system_for_EEG_Challenge)
+5. 🎉 Merged PR [#11](https://github.com/AlKun25/ChatViz/pull/11) in [AlKun25/ChatViz](https://github.com/AlKun25/ChatViz)
 <!--END_SECTION:activity-->
 
 
