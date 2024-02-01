@@ -11,7 +11,6 @@
 - 🤔 I’m looking for help with distributed training of Large Multimodal models
 - 💬 Ask me about ML, DL and Python
 - 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/kunalmundada/)
-- 😄 Pronouns: He/Him
 - ⚡ Fun fact: I often like to ideate stuff to understand major issues in certain ideas and common technical roadblocks.
 
 ## ✉️ Connect with me
