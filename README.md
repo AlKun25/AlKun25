@@ -24,7 +24,7 @@
 [![Kunal's GitHub stats](https://github-readme-stats.vercel.app/api?username=AlKun25&theme=radical&count_private=true&show_icons=true&rank_icon=github)](https://github.com/anuraghazra/github-readme-stats)
 
 
-## Recent Activity
+### Recent Activity
 <!--START_SECTION:activity-->
 1. 🗣 Commented on [#7](https://github.com/AlKun25/harvest_trace/issues/7#issuecomment-1922057196) in [AlKun25/harvest_trace](https://github.com/AlKun25/harvest_trace)
 2. ❗ Opened issue [#10](https://github.com/AlKun25/harvest_trace/issues/10) in [AlKun25/harvest_trace](https://github.com/AlKun25/harvest_trace)
