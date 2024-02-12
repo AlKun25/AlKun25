@@ -26,11 +26,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. ❗ Opened issue [#3](https://github.com/AlKun25/ECS_260/issues/3) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
-2. ❗ Opened issue [#2](https://github.com/AlKun25/ECS_260/issues/2) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
-3. 🗣 Commented on [#7](https://github.com/AlKun25/harvest_trace/issues/7#issuecomment-1922057196) in [AlKun25/harvest_trace](https://github.com/AlKun25/harvest_trace)
-4. ❗ Opened issue [#10](https://github.com/AlKun25/harvest_trace/issues/10) in [AlKun25/harvest_trace](https://github.com/AlKun25/harvest_trace)
-5. ❗ Opened issue [#9](https://github.com/AlKun25/harvest_trace/issues/9) in [AlKun25/harvest_trace](https://github.com/AlKun25/harvest_trace)
+1. 🗣 Commented on [#3](https://github.com/AlKun25/ECS_260/issues/3#issuecomment-1938035169) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+2. 🗣 Commented on [#3](https://github.com/AlKun25/ECS_260/issues/3#issuecomment-1938034890) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+3. 🔒 Closed issue [#1](https://github.com/AlKun25/ECS_260/issues/1) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+4. ❗ Opened issue [#4](https://github.com/AlKun25/ECS_260/issues/4) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+5. ❗ Opened issue [#3](https://github.com/AlKun25/ECS_260/issues/3) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
 <!--END_SECTION:activity-->
 
 
