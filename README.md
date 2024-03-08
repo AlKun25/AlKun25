@@ -26,11 +26,11 @@
 
 ### Recent Activity
 <!--START_SECTION:activity-->
-1. 🔓 Reopened issue [#1](https://github.com/AlKun25/ECS_260/issues/1) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
-2. 🗣 Commented on [#3](https://github.com/AlKun25/ECS_260/issues/3#issuecomment-1939121019) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
-3. 🔒 Closed issue [#3](https://github.com/AlKun25/ECS_260/issues/3) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
-4. 🗣 Commented on [#3](https://github.com/AlKun25/ECS_260/issues/3#issuecomment-1938035169) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
-5. 🗣 Commented on [#3](https://github.com/AlKun25/ECS_260/issues/3#issuecomment-1938034890) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+1. 🎉 Merged PR [#5](https://github.com/AlKun25/ECS_260/pull/5) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+2. 💪 Opened PR [#5](https://github.com/AlKun25/ECS_260/pull/5) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+3. 🔓 Reopened issue [#1](https://github.com/AlKun25/ECS_260/issues/1) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+4. 🗣 Commented on [#3](https://github.com/AlKun25/ECS_260/issues/3#issuecomment-1939121019) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
+5. 🔒 Closed issue [#3](https://github.com/AlKun25/ECS_260/issues/3) in [AlKun25/ECS_260](https://github.com/AlKun25/ECS_260)
 <!--END_SECTION:activity-->
 
 
